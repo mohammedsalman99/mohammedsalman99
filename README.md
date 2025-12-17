@@ -9,7 +9,6 @@
 - 🛡️ Certified **Google Cybersecurity Professional**
 - 💬 Ask me about **Packet Analysis, Penetration Testing, or Digital Forensics**
 - 📫 How to reach me: **mhumdanwerdw@gmail.com**
-- 📄 Portfolio/CV: [View My CV](https://drive.google.com/file/d/1VCoL4n4ORq_lPffjzMSjwF1Av-oY3Xch/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
